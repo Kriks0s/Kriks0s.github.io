@@ -1,9 +1,11 @@
-img     {width: 250px; height: 250px;}
-body    {background-color: rgb(117, 117, 248); width: 75%; margin:  auto;}
-h1      {text-align: center; margin: auto; width: 750px; height: 100px;}
-h3      {text-align: center;}
-#góra   {height: 250px;}
-#lewo   {float: left; background-color: rgb(113, 253, 113); padding: 5px; width: 49%; height: 150px;}
-#prawo  {float: right; background-color: red; padding: 5px; width: 49%; height: 150px}
-#itemy  {display: inline;}
-.dół    {display: inline; width: 500px;}
+body            {background-color: rgb(80, 119, 247); width: 80%; margin: auto;}
+h1              {text-align: center; font-size: 40px;}
+img             {width: 200px; height: 200px;}
+table           {margin: auto;}
+td              {background-color: rgb(163, 85, 236); border: 2px solid black;}
+#lewo           {float: left; background-color: rgb(0, 255, 0); padding: 5px; width: 49%; height: 150px;}
+#prawo          {float: right; background-color: red; padding: 5px; width: 49%; height: 150px}
+#JakSho         {width: 500px; height: 335px; text-align: center; padding: 7px; font-weight: bolder;}
+#Youmuu         {width: 500px; height: 335px; text-align: center; padding: 7px; font-weight: bolder;}
+#Zhonya         {width: 500px; height: 335px; text-align: center; padding: 7px; font-weight: bolder;}
+#ZhonyabutAD    {width: 500px; height: 335px; text-align: center; padding: 7px; font-weight: bolder;}
