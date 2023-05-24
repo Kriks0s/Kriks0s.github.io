@@ -1,0 +1,9 @@
+img     {width: 250px; height: 250px;}
+body    {background-color: rgb(117, 117, 248); width: 75%; margin:  auto;}
+h1      {text-align: center; margin: auto; width: 750px; height: 100px;}
+h3      {text-align: center;}
+#góra   {height: 250px;}
+#lewo   {float: left; background-color: rgb(113, 253, 113); padding: 5px; width: 49%; height: 150px;}
+#prawo  {float: right; background-color: red; padding: 5px; width: 49%; height: 150px}
+#itemy  {display: inline;}
+.dół    {display: inline; width: 500px;}
